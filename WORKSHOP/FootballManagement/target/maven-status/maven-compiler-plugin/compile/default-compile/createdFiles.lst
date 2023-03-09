@@ -1,0 +1,5 @@
+com\example\demo\PlayersDetailsApplication.class
+com\example\demo\Repository\PlayerRepo.class
+com\example\demo\Service\PlayerService.class
+com\example\demo\Controller\PlayerController.class
+com\example\demo\Entity\PlayerEntity.class
